@@ -7,7 +7,7 @@
 
 A comprehensive desktop application for performing various image processing operations with real-time previews.
 
-![Application Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/c02199a8-ec35-4cd7-85fb-a6c2679a5fbd)
 
 ## Features
 
